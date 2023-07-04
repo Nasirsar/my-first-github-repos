@@ -1,3 +1,7 @@
 div{
     background-color: aqua;
+    margin-bottom: 10px;
+    border: black solid;
+    font-size: large;
+    padding: 10px;
 }
